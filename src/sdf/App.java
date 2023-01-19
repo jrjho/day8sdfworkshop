@@ -9,6 +9,7 @@ public class App{
     HashTableExample hte = new HashTableExample();
     ConcurrentHashMapExample chme = new ConcurrentHashMapExample();
     LinkedListExample lle = new LinkedListExample();
+    StackExample se = new StackExample();
 
     // sortedArray.example();
     // sortedArray.sortInt();
@@ -17,7 +18,8 @@ public class App{
     // hme.example();
     // hte.example();
     // chme.example();
-    lle.example();
+    // lle.example();
+    se.example();
 
 
     
