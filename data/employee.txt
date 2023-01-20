@@ -1,0 +1,5 @@
+staffNo,fullName,department,role,emailAddress,salary
+43453,Mr Grey,Accounting,Manager,mrgrey@mrbrown.com,765473,
+12345,Mr Brown,Marketing,Mascot,mrbrown@mrbrown.com,897642,
+8747,Ms Violet,Sales,Staff,msviolet@mrbrown.com,123452,
+84752,Ms Pink,IT,Programmer,mspink@mrbrown.com,817341,
